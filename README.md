@@ -3,7 +3,6 @@
 <!--
 **irissun9602/irissun9602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irissun9602&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irissun9602&hide=contribs,prs&hide_rank=true&include_all_commits=true&show_icons=true&theme=radical)
